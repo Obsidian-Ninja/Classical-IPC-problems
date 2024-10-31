@@ -1,16 +1,15 @@
 IPC Problems in C++
+
 This repository contains classic Inter-Process Communication (IPC) problems implemented in C++. The implementations cover the Reader-Writer, Producer-Consumer, and Dining Philosophers problems, demonstrating essential synchronization concepts for process coordination and efficient resource sharing.
 
 Table of Contents
+
 Description
 Problems
 Reader-Writer
 Producer-Consumer
 Dining Philosophers
-Setup and Compilation
-Usage
-License
-Description
+
 This project implements three of the most well-known IPC synchronization problems, frequently encountered in operating systems and concurrency control:
 
 Reader-Writer Problem: Managing access to a shared resource for multiple readers and writers.
